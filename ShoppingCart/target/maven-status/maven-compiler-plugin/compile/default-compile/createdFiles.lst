@@ -1,0 +1,6 @@
+org\vj\shopcart\config\SwaggerConfig.class
+org\vj\shopcart\ShoppingCartApplication.class
+org\vj\shopcart\controller\WelcomeController.class
+org\vj\shopcart\repository\SCProductRepository.class
+org\vj\shopcart\controller\ShoppingCartController.class
+org\vj\shopcart\document\SCProduct.class
